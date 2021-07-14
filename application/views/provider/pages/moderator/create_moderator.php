@@ -360,15 +360,15 @@
 
                                                             <div class="col-md-6">
 
-                                                                <label class="form-control-label">Acreditations</label>
+                                                                <label class="form-control-label">Accreditations</label>
 
-                                                                <input type="text" placeholder="Enter Your Acreditations Name" name="acreditations[]" class="form-control" value="<?= $value['acreditations']; ?>">
+                                                                <input type="text" placeholder="Enter Your Accreditations Name" name="acreditations[]" class="form-control" value="<?= $value['acreditations']; ?>">
 
                                                             </div>
 
                                                             <div class="col-md-6">
 
-                                                                <label class="form-control-label">Acreditations</label>
+                                                                <label class="form-control-label">Accreditations</label>
 
                                                                 <img src="<?= BASEURL . 'uploads/moderator/acreditationsfiles/' . $value['acreditations_file'] ?>" width="50px" height="50px">
 
@@ -387,15 +387,15 @@
 
                                             <div class="col-md-6">
 
-                                                <label class="form-control-label">Acreditations</label>
+                                                <label class="form-control-label">Accreditations</label>
 
-                                                <input type="text" placeholder="Enter Your Acreditations Name" name="acreditations[]" class="form-control">
+                                                <input type="text" placeholder="Enter Your Accreditations Name" name="acreditations[]" class="form-control">
 
                                             </div>
 
                                             <div class="col-md-6">
 
-                                                <label class="form-control-label">Acreditations Files</label>
+                                                <label class="form-control-label">Accreditations Files</label>
 
                                                 <input type="file" name="acreditations_file[]" class="form-control">
 
@@ -405,7 +405,7 @@
 
                                         <div class="col-md-6">
 
-                                            <a href="javascript:void(0);" class="add_button btn btn-info" title="Add Acreditations" style="margin:15px 0 0">+ Add More</a>
+                                            <a href="javascript:void(0);" class="add_button btn btn-info" title="Add Accreditations" style="margin:15px 0 0">+ Add More</a>
 
                                         </div>
 

@@ -44,7 +44,7 @@ if (isset($_SESSION['admin']['logintype'])) {
 
                                         <th>Learnership Sub Type</th>
 
-                                        <th>ClassName</th>
+                                        <th>Class Name</th>
 
                                         <th>Facilitator</th>
 

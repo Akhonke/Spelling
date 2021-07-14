@@ -10,7 +10,7 @@
                         } else {
                             $name = "Create";
                         } ?>
-                        <h3 class="h6 text-uppercase mb-0"><?= $name ?> Learner Attandance</h3>
+                        <h3 class="h6 text-uppercase mb-0"><?= $name ?> Learner Attendance</h3>
                     </div>
                     <?php
                     if (!empty($this->session->flashdata('error'))) { ?>
@@ -94,8 +94,8 @@
                                     <label id="" class="error" for=""></label>
                                 </div>
                                 <div class="col-md-6">
-                                    <label class="form-control-label">Reason for Not attanding</label>
-                                    <input type="text" placeholder="Reason for Not attanding" class="form-control" value="" id="reason_not_attend" name="reason_not_attend">
+                                    <label class="form-control-label">Reason for Not Attending</label>
+                                    <input type="text" placeholder="Reason for Not Attending" class="form-control" value="" id="reason_not_attend" name="reason_not_attend">
 
 
 

@@ -18,7 +18,7 @@
                                     <th>Moderation Date</th>
                                     <th>Learnership Type</th>
                                     <th>Learnership Sub Type</th>
-                                    <th>Classname</th>
+                                    <th>Class Name</th>
                                     <th>Unit Standards</th>
                                     <th>Action</th>
                                 </tr>

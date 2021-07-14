@@ -20,9 +20,9 @@
                                      <input type="text" placeholder="Enter Your Surname" name="surname" class="form-control" value="<?= $assessor_Record->surname ?>" readonly>
                                  </div>
                                  <div class="col-md-6">
-                                     <label class="form-control-label">Assesment Quarter<span style="color:red;font-weight:bold;"> *</span></label>
+                                     <label class="form-control-label">Assessment Quarter<span style="color:red;font-weight:bold;"> *</span></label>
                                      <select class="form-control" name="assesment_number" id="assesment_number">
-                                         <option label="Choose Your Assesment Quarter" hidden></option>
+                                         <option label="Choose Your Assessment Quarter" hidden></option>
                                          <option value="1st">1st
                                          </option>
                                          <option value="2nd">2nd
@@ -35,7 +35,7 @@
                                      <label id="error" class="error" for=""></label>
                                  </div>
                                  <div class="col-md-6">
-                                     <label class="form-control-label">Assesment Date<span style="color:red;font-weight:bold;"> *</span></label>
+                                     <label class="form-control-label">Assessment Date<span style="color:red;font-weight:bold;"> *</span></label>
                                      <input type="date" placeholder="Enter Your Assesment Dat" class="form-control" value="" id="assesment_date" name="assesment_date">
                                      <label id="" class="error" for=""></label>
                                  </div>

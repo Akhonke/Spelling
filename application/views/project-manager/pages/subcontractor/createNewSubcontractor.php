@@ -88,8 +88,8 @@
                            <span class='error_validate' style='color:red;'><?= form_error('email') ?></span>
                         </div>
                         <div class="col-md-6">
-                           <label class="form-control-label">Company Registration Nubmer<span style="color:red;font-weight:bold;"> *</span></label>
-                           <input type="text" placeholder="Enter Company Registration Nubmer" class="form-control" name="company_req_no" id="company_req_no" value="<?php if (isset($record)) {
+                           <label class="form-control-label">Company Registration Number<span style="color:red;font-weight:bold;"> *</span></label>
+                           <input type="text" placeholder="Enter Company Registration Number" class="form-control" name="company_req_no" id="company_req_no" value="<?php if (isset($record)) {
                               echo $record->company_req_no;
                               } else {
                               if (isset($_POST['company_req_no'])) {

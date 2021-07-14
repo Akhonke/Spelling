@@ -74,7 +74,7 @@ if (isset($_SESSION['admin']['logintype'])) {
                     <th>Branch Name</th>
                     <th>Branch Code</th>
                     <th>Reason</th>
-                    <th>I.D.Copy</th>
+                    <th>I.D Copy</th>
                     <th>Certificate Copy</th>
                     <th>Contract Copy</th>
                     <th>Upload Proof Of Banking</th>

@@ -33,7 +33,7 @@
 
                                     <th>Learner Surname</th>
 
-                                    <th>Learner ID</th>
+                                    <th>Learner I.D</th>
 
                                     <th>Date OF Incident</th>
 

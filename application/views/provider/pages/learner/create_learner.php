@@ -94,9 +94,9 @@
 
                                 <div class="col-md-6">
 
-                                    <label class="form-control-label">Seat Registration Number<span style="color:red;font-weight:bold;"> *</span></label>
+                                    <label class="form-control-label">SETA Registration Number</span></label>
 
-                                    <input type="text" placeholder="Enter Your SEAT Number" class="form-control" name="SETA" id="SETA" value="<?php if (isset($record)) {
+                                    <input type="text" placeholder="Enter Your SETA Number" class="form-control" name="SETA" id="SETA" value="<?php if (isset($record)) {
                                                                                                                                                     echo $record->SETA;
                                                                                                                                                 } else {
                                                                                                                                                     if (isset($_POST['SETA'])) {
@@ -526,7 +526,7 @@
                                     <span class='error_validate' style='color:red;'><?= form_error('Street_number') ?></span>
                                 </div>
                                 <div class="col-md-6">
-                                    <label class="form-control-label">Employer Name<span style="color:red;font-weight:bold;"> *</span></label>
+                                    <label class="form-control-label">Employer Name</label>
                                     <select class="form-control" name="employer_name">
                                         <?php if (empty($_GET['id'])) { ?>
                                             <option value="" hidden>Select Employer Name</option>

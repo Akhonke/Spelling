@@ -40,7 +40,7 @@ if (isset($_SESSION['admin']['logintype'])) {
                                     <th>Street Name</th>
                                     <th>Street Number</th>
                                     <!-- <th>Class Name</th> -->
-                                    <th>Acreditations Files</th>
+                                    <th>Accreditations Files</th>
                                     <th>Action</th>
                                 </tr>
                             </thead>

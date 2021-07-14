@@ -175,7 +175,7 @@
 
                                 <div class="col-md-6">
 
-                                    <label class="form-control-label">Faciliator</label>
+                                    <label class="form-control-label">Facilitator</label>
 
                                     <input type="text" name="facilitator"  placeholder="Enter Facilitator Name" class="form-control facilitator"  id="facilitator"  value="<?php if (!empty($facilitatord)) {
                                                                                                             echo $facilitatord->fullname;

@@ -82,7 +82,7 @@
 
                                         <select class="form-control learnshipsubtype" name="learnership_sub_type">
 
-                                            <option value="" hidden>Select learnship sub type</option>
+                                            <option value="" hidden>Select Learnership sub type</option>
 
                                             <?php
 
@@ -146,9 +146,9 @@
 
                                 <div class="col-md-6">
 
-                                    <label class="form-control-label">Faciliator</label>
+                                    <label class="form-control-label">Facilitator</label>
 
-                                    <input type="text" placeholder="Enter Your Faciliator" name="facilirator" class="form-control" value="<?php if (!empty($facilitator)) {
+                                    <input type="text" placeholder="Enter Your Facilitator" name="facilirator" class="form-control" value="<?php if (!empty($facilitator)) {
                                                                                                                                                 echo $facilitator->fullname;
                                                                                                                                             } ?>" readonly>
 

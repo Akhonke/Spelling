@@ -30,7 +30,7 @@
                                         <th>Email</th>
                                         <th>Mobile</th>
                                         <th>Other Mobile</th>
-                                        <th>ID Number</th>
+                                        <th>I.D Number</th>
                                         <th>SETA</th>
                                         <th>Province</th>
                                         <th>District</th>
@@ -49,7 +49,7 @@
                                         <th>Reason</th>
                                         <th>Class Name</th>
                                         <th>Employer Name</th>
-                                        <th>I.D.Copy</th>
+                                        <th>I.D Copy</th>
                                         <th>Certificate Copy</th>
                                         <th>Contract Copy</th>
                                         <th>Upload File Formate(Excel)</th>

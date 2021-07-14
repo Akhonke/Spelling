@@ -42,7 +42,7 @@
 
                                         <th>Date</th>
 
-                                        <th>Reason for Not attanding</th>
+                                        <th>Reason for Not Attending</th>
 
                                         <th>Download Doctors Note</th>
                                         <th>Action</th>

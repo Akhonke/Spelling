@@ -98,7 +98,7 @@
                                          <option <?php if(!empty($record) && $record->task_status_colour == 'Green'){ echo 'selected'; }?> value="Green">Green</option>
 
                                      </select> -->
-                                     <input type="text" placeholder="Enter Status Colour" class="form-control" value="<?php if(!empty($record)){ echo $record->task_status_colour ; }?>" id="task_status_colour" name="task_status_colour" readonly>
+                                     <input type="text" placeholder="Status Color" class="form-control" value="<?php if(!empty($record)){ echo $record->task_status_colour ; }?>" id="task_status_colour" name="task_status_colour" readonly>
                                     
                                     <label id="" class="error" for="task_status_colour"></label>
 

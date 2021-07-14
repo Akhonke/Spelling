@@ -38,7 +38,7 @@
                                     <th>S.No.</th>
                                     <th>Learner  Name</th>
                                     <th>Learner Surname</th>
-                                    <th>Learner ID Number</th>
+                                    <th>Learner I.D Number</th>
                                     <th>Performance</th>
                                     <th>Overall Comments</th>
                                 </tr>

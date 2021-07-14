@@ -105,7 +105,7 @@
                            <label id="classname-error" class="error" for="classname"></label>
                         </div>
                         <div class="col-md-6">
-                           <label class="form-control-label" id="">Faciliator<span style="color:red;font-weight:bold;"> *</span></label>
+                           <label class="form-control-label" id="">Facilitator<span style="color:red;font-weight:bold;"> *</span></label>
                            <input type="text" name="facilitator" class="form-control" value="<?php if (!empty($facilitator)) {
                               echo $facilitator->fullname;
                               } ?>" readonly>

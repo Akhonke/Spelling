@@ -159,7 +159,7 @@
 
                                 <div class="col-md-6">
 
-                                    <label class="form-control-label">Faciliator<span style="color:red;font-weight:bold;"> *</span></label>
+                                    <label class="form-control-label">Facilitator<span style="color:red;font-weight:bold;"> *</span></label>
                                     <?php
 
                                     if (!empty($_GET['id'])) {

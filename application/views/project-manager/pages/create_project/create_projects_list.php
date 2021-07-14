@@ -50,7 +50,7 @@
 
                                         <th>Actual Project End Date</th>
 
-                                        <th>Project Owner Fullname</th>
+                                        <th>Project Owner First Name</th>
 
                                         <th>Project Owner Surname</th>
 

@@ -27,7 +27,7 @@ if (isset($_SESSION['admin']['logintype'])) {
                                     <th>Training Provider</th>
                                     <th>Learnership Type</th>
                                     <th>Learnership Sub Type</th>
-                                    <th>ClassName</th>
+                                    <th>Class Name</th>
                                     <th>Facilitator</th>
                                     <th>Week Start Date</th>
                                     <th>Week Ending Date</th>

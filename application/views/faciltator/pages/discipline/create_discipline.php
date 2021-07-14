@@ -25,8 +25,8 @@
                             <!-- <div class="line"></div> -->
                             <div class="form-group row">
                                 <div class="col-md-6">
-                                    <label class="form-control-label">Learner ID<span style="color:red;font-weight:bold;"> *</span></label>
-                                    <input type="text" placeholder="Enter Learner ID" name="learner_id" id="learner_id" class="form-control learner_id" value="<?php if (!empty($issue)) {
+                                    <label class="form-control-label">Learner I.D<span style="color:red;font-weight:bold;"> *</span></label>
+                                    <input type="text" placeholder="Enter Learner I.D" name="learner_id" id="learner_id" class="form-control learner_id" value="<?php if (!empty($issue)) {
                                                                                                                                                                     echo $issue->learner_id;
                                                                                                                                                                 } ?>">
                                 </div>

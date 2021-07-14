@@ -222,7 +222,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <label class="form-control-label">First Name<span style="color:red;font-weight:bold;"> *</span></label>
-                                    <input type="text" placeholder="Enter Your Full Name" name="project_owner_name" class="form-control" value="<?php if (!empty($record)) {
+                                    <input type="text" placeholder="Enter Your First Name" name="project_owner_name" class="form-control" value="<?php if (!empty($record)) {
                                                                                                                                                     echo $record->project_owner_name;
                                                                                                                                                 } ?>" id="project_owner_name">
                                 </div>
@@ -251,7 +251,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <label class="form-control-label">I.D Number<span style="color:red;font-weight:bold;"> *</span></label>
-                                    <input type="text" placeholder="Enter Your ID" class="form-control id_number" name="id_number" value="<?php if (!empty($record)) {
+                                    <input type="text" placeholder="Enter Your I.D" class="form-control id_number" name="id_number" value="<?php if (!empty($record)) {
                                                                                                                                                 echo $record->project_owner_id_number;
                                                                                                                                             } ?>" id="id_number">
 

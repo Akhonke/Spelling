@@ -58,7 +58,7 @@
 
                                         <th>Street Number</th>
 
-                                        <th>Acreditations Files</th>
+                                        <th>Accreditations Files</th>
 
                                         <th>Action</th>
 

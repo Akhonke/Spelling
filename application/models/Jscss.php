@@ -5089,7 +5089,7 @@
 
 				                    	$("#remove_file"+file_id).remove();
 
-				                       // swal("Deleted!", "Your acreditations file has been deleted.", "success");
+				                       // swal("Deleted!", "Your accreditations file has been deleted.", "success");
 
 				                        location.reload(true);
 
@@ -5103,7 +5103,7 @@
 
 				            }else {
 
-				             swal("Cancelled", "Your  acreditations is safe :)", "error");
+				             swal("Cancelled", "Your  accreditations is safe :)", "error");
 
 				            }
 
@@ -7277,13 +7277,13 @@
 
 			            },
 
-			            'SETA':{
+			           // 'SETA':{
 
-                          required: true,
+                         // required: true,
 
-                           minlength: 5
+                          // minlength: 5
 
-			            },
+			           // },
 
 			            'mobile':{
 
@@ -7425,13 +7425,13 @@
 
 			            },
 
-			            'SETA':{
+			           // 'SETA':{
 
-			            	required:'Please enter your SETA',
+			            	//required:'Please enter your SETA',
 
-			            	 minlength: 'Your seat number must be at least 5 characters long'
+			            	// minlength: 'Your seat number must be at least 5 characters long'
 
-			            },
+			           // },
 
 			            'mobile':{
 
@@ -10106,10 +10106,10 @@
 									minlength: 13,
 									maxlength: 13
 								},
-								SETA: {
-									required: true,
-									minlength: 5
-								},
+								//SETA: {
+									//required: true,
+									//minlength: 5
+								//},
 								mobile: {
 									required: true,
 									minlength: 9,
@@ -10160,9 +10160,9 @@
 								learner_accepted_training:{
 									required: true,
 								},
-								employer_name:{
-									required:true,
-								},
+								//employer_name:{
+									//required:true,
+								//},
 								bank_name:{
 									required: true,
 								},

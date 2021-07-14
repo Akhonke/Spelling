@@ -51,7 +51,7 @@ echo $learner_nm=$learner->first_name.' '.$learner->surname;
 
       <li class="sidebar-list-item">
          <a href="#" data-toggle="collapse" title="From Here You Can Manage Dropout" data-target="#pages81" aria-expanded="false" aria-controls="pages71" class="sidebar-link text-white">
-            <i class="o-wireframe-1 mr-3 text-gray"></i><span>Dropout</span></a>
+            <i class="o-wireframe-1 mr-3 text-gray"></i><span>Drop Out</span></a>
          <div id="pages81" class="collapse">
             <ul class="sidebar-menu list-unstyled border-left border-primary border-thick">
                <li class="sidebar-list-item">

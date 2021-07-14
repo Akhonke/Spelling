@@ -38,7 +38,7 @@
                                     <th>Serial No</th>
                                     <th>Learner  Name</th>
                                     <th>Learner Surname</th>
-                                    <th>Learner ID</th>
+                                    <th>Learner I.D</th>
                                     <th>Performance</th>
                                     <th>Overall Comments</th>
                                 </tr>

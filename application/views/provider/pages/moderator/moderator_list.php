@@ -30,7 +30,7 @@ if (isset($_SESSION['admin']['logintype'])) {
                                     <th>Email</th>
                                     <th>Mobile Number</th>
                                     <th>Landline Number</th>
-                                    <th>ID Number</th>
+                                    <th>I.D Number</th>
                                     <th>Province</th>
                                     <th>District</th>
                                     <!-- <th>Region</th> -->
@@ -39,7 +39,7 @@ if (isset($_SESSION['admin']['logintype'])) {
                                     <th>Suburb</th>
                                     <th>Street Name</th>
                                     <th>Street Number</th>
-                                    <th>Acreditations Files</th>
+                                    <th>Accreditations Files</th>
                                     <th>Action</th>
                                 </tr>
                             </thead>
